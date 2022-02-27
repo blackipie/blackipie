@@ -1,6 +1,6 @@
 ### Hi there 👋
-------------------------
-I am Masud Shafin Ahmed
+
+Masud Shafin Ahmed
 ------------------------
 
 <!--
