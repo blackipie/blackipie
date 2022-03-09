@@ -2,8 +2,10 @@
 
 My name is Masud Shafin Ahmed
 ------------------------
-- 🌱 I’m currently learning Reactjs, Nextjs and MongoBD
-
+- 🌱 I’m currently learning more about Reactjs, Nextjs and MongoBD.
+- 🤖 Programming : C/C++ , Java, Nextjs, Reactjs, JavaScript, Php.
+- 🫓 DB: MySQL, MongoDB.
+- 💫 Solved more than 800 problems in various coding platforms.
 <!--
 **blackipie/blackipie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
