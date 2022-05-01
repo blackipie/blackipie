@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Masud Shafin Ahmed | 20 yo
+My name is Masud Shafin Ahmed
+
 -------------------------
 - 🤩 Learning Data-Structures and Algorithms ( Adv.)
 - 🌱 Building Projects with Reactjs/ Nextjs/ MongoBD.
