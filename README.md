@@ -7,7 +7,7 @@ My name is Masud Shafin Ahmed | 20 yo
 - 🤖 Programming : C/C++ , Java, JavaScript, Php.
 - 🪟 Frameworks: Nextjs, Reactjs, NodeJs, Laravel
 - 🫓 DB: MySQL, MongoDB.
-- 💫 Solved more than 800 problems in different coding platforms.
+- 💫 Solved more than 800 problems on different coding platforms.
 <!--
 **blackipie/blackipie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
